@@ -1,6 +1,6 @@
 <RCC>
     <qresource prefix="/">
-        <file>main.qml</file>
-        <file>contacts.qml</file>
+        <file>src/qml/main.qml</file>
+        <file>src/qml/contacts.qml</file>
     </qresource>
 </RCC>

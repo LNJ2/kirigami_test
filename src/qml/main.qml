@@ -22,5 +22,5 @@ Kirigami.ApplicationWindow {
         ]
     }
 
-    pageStack.initialPage: contactList
+    pageStack.initialPage: contactsPage
 }
